@@ -28,7 +28,7 @@ const server = http.createServer((req, res) => {
 </head>
 <body>
     <h1>About Us</h1>
-    <p>We are passionate about creating beautiful and functional websites.</p>
+    <p>We are passionate ab out creating beautiful and functional websites.</p>
     
     <nav>
         <a href="Homepage.html">Home</a>
